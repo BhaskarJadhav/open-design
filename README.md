@@ -1,3 +1,5 @@
+> Fork of [nexu-io/open-design](https://github.com/nexu-io/open-design). See the upstream repository for the original project, documentation, and contribution history.
+
 # Open Design
 
 > **The open-source alternative to [Claude Design][cd].** Local-first, web-deployable, BYOK at every layer — **12 coding-agent CLIs** auto-detected on your `PATH` (Claude Code, Codex, Devin for Terminal, Cursor Agent, Gemini CLI, OpenCode, Qwen, GitHub Copilot CLI, Hermes, Kimi, Pi, Kiro) become the design engine, driven by **31 composable Skills** and **72 brand-grade Design Systems**. No CLI? An OpenAI-compatible BYOK proxy is the same loop minus the spawn.
